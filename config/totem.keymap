@@ -135,7 +135,7 @@
             bindings = <
                 &trans  &trans  &trans  &trans  &trans    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LS(GRAVE)
                 &trans  &trans  &trans  &trans  &trans    &kp LEFT_BRACE    &kp RIGHT_BRACE    &trans                &trans                 &kp BSLH
-&kp LEFT_SHIFT  &trans  &trans  &trans  &trans  &trans    &kp MINUS         &kp PLUS           &trans                &trans                 &trans         &kp APOSTROPHE
+&kp LEFT_SHIFT  &trans  &trans  &trans  &trans  &trans    &kp MINUS         &kp EQUAL          &trans                &trans                 &trans         &kp APOSTROPHE
                                 &trans  &trans  &trans    &trans            &trans             &trans
             >;
         };
